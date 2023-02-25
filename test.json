@@ -2,5 +2,6 @@
     "name": "Rohan Bera",
     "age":25,
     "company":"Cognizant Tech Soln.",
-    "empId": 123456
+    "empId": 123456,
+    "ofcLocation":"Unitech Infospace"
 }
